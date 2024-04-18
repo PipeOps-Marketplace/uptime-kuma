@@ -3,7 +3,7 @@
 
 A fancy self-hosted monitoring tool
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](https://railway.app/template/0ELOuE?referralCode=IQhE0B)
+[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
 
 
 ![](https://user-images.githubusercontent.com/1336778/212262296-e6205815-ad62-488c-83ec-a5b0d0689f7c.jpg)
